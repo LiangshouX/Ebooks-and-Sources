@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>新闻详情页</title>
+	<link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+	<!-- 导航开始 -->
+	<nav class="navbar">
+		<div class="container navbar-content">
+			<a href="index.php">首页</a>
+			<a href="add.php">添加新闻</a>
+		</div>
+	</nav>
+	<!-- 导航结束 -->
+	
+	<!-- 图片 -->
+	<img src="images/bg.jpg" class="index-bg">
+
+	<!-- 具体内容 -->
+	<div class="container">
+		<h1>新闻系统</h1>
+		<!-- 新闻列表开始 -->
+	    <div class="news-list">
+	        <!-- 新闻列表左边开始 -->
+	        <div class="news-list-left" style='width: 100%'>
+	        	<!-- 列表项开始 -->
+	            <div class="news-list-item" style='border-bottom: none;'>
+	            	<!-- 新闻标题 -->
+	                <h3 class="news-title"><?php echo $news['title'];?></h3> 
+	            	<!-- 作者以及发布时间 -->
+	                <div class="author-time"> <span><?php echo $news['name'];?></span> 发表于 <span><?php echo date('Y-m-d h:i:s',$news['publish']);?></span> </div>
+					
+					<!-- 新闻详情 -->
+	                <div class="news-des">
+	                	
+	                    <!-- 新闻内容 -->
+	                    <div class="news-content-des"><?php echo $news['content'];?></div>
+	                </div>
+	            </div>
+	        	<!-- 列表项结束 -->
+	        </div>
+	        <!-- 新闻列表左边结束 -->
+			
+			<!-- 底部开始 -->
+	        <footer class="copyright" style='border-top: none;'>Copyright 2019 All rights reserved.</footer>
+			<!-- 底部结束 -->
+	    </div>
+		<!-- 新闻列表结束 -->
+	</div>
+</body>
+</html>

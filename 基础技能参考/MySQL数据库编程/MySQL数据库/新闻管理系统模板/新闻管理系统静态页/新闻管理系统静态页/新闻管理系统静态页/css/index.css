@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:"Microsoft YaHei", "微软雅黑", "consolas";
+}
+a {
+    text-decoration: none;
+    color: #000;
+    font-size:16px;
+}
+a:focus, a:hover {
+    text-decoration: none;
+}
+.clearfix:before, .clearfix:after {
+    content:"";
+    display: table;
+    line-height: 0;
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix {
+    *zoom: 1;
+}
+.navbar {
+    background: url(../images/header_shadow.png) no-repeat left top;
+    background-size: 100% 54px;
+}
+.navbar .navbar-content a {
+    color: #ffffff;
+    line-height: 54px;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+.navbar .navbar-content a:hover {
+    color: #cccccc;
+}
+
+.index-bg {
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    top: -50px;
+    z-index: -10;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.container h1{
+	margin-top: 20px;
+}
+.container .news-list {
+    margin: 30px 0;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #DDD;
+    padding: 30px 20px;
+    min-height: 300px;
+    box-shadow: 1px 1px 5px 3px rgba(0,0,0,.3);
+}
+.container .news-list .news-list-left {
+    float: left;
+    width: 729px;
+    margin-bottom: 50px;
+}
+.container .news-list .news-list-left .news-list-item {
+    padding: 20px 0;
+    margin: 0 30px;
+    border-bottom: 2px solid #cccccc;
+}
+.container .news-list .news-list-left .news-list-item .author-time {
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    color:#888888;
+}
+.container .news-list .news-list-left .news-list-item .news-des {
+	overflow: hidden;
+}
+.container .news-list .news-list-left .news-list-item .news-des .news-content-des.ellipsis{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3; 
+}
+.container .news-list .news-list-left .news-list-item .news-title {
+    font-size: 23px;
+    color: green;
+}
+.container .news-list .news-list-left .news-list-item .news-title i {
+    display: inline-block;
+    width: 47px;
+    height: 43px;
+    margin-right: 10px;
+    background: url('../images/news-icon.png') left center no-repeat;
+    vertical-align: middle;
+}
+.container .news-list .news-list-left .news-list-item .news-title a {
+    color: green;
+}
+.container .news-list .news-list-left .news-list-item .news-title a:hover {
+    text-decoration: underline;
+}
+.container .news-list .news-list-left .news-list-item .operate{
+    float: right;
+}
+.container .news-list .news-list-left .news-list-item .operate a{
+    padding:5px;
+    border-radius: 5px;
+    margin-top: 5px;
+    display: inline-block;
+    background: #3bb4f2;
+    font-size:12px;
+    color:white;
+}
+.container .news-list .news-list-left .news-list-item .operate a:hover{
+    background: #0f9ae0;
+}
+.container .news-list .news-list-left .news-list-item .news-des .news-content-des {
+    line-height: 28px;
+    margin-top: 10px;
+}
+
+.container .news-list .news-list-right {
+    float: right;
+    width: 229px;
+}
+
+.container .news-list .news-list-right .about .about-des {
+    border-left: 5px solid #cccccc;
+    margin-top: 15px;
+}
+.container .news-list .news-list-right .about .about-des p {
+    padding-left: 10px;
+    line-height: 28px;
+    text-indent: 2em;
+}
+
+
+.container .copyright {
+    clear: both;
+    text-align: center;
+    color: gray;
+    border-top: 2px solid #cccccc;
+    margin-top: 50px;
+    padding: 20px 0;
+}
+
+
+.add-news{
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #DDD;
+    padding: 30px 20px;
+    min-height: 500px;
+    box-shadow: 1px 1px 5px 3px rgba(0,0,0,.3);
+}
+.add-news h1{
+    margin-top:0;
+    margin-bottom: 20px;
+}
+textarea{
+    resize: none;
+}
+
+.page{
+    font-size:0;
+    text-align:center;
+}
+.page a{
+    display: inline-block;
+    padding: 3px 6px;
+    margin-left: 5px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    color: #666;
+    font-size:12px;
+}
+.page a:hover{
+    background-color: #288df0;
+    color:#fff;
+}
+.page a.current{
+    background-color: #288df0;
+    color:#fff;
+}

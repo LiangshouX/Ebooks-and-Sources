@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>新闻修改页</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+	<!-- 导航开始 -->
+	<nav class="navbar">
+		<div class="container navbar-content">
+			<a href="index.php">首页</a>
+			<a href="add.php">添加新闻</a>
+		</div>
+	</nav>
+	<!-- 导航结束 -->
+	
+	<!-- 图片 -->
+	<img src="images/bg.jpg" class="index-bg">
+
+	<div class="container">
+	    <div class="add-news col-md-8 col-md-offset-2">
+			<h1>修改新闻</h1>
+			
+			<form action="update.php" method="post">
+				<input type="hidden" name="id" value="<?php echo $news['id'];?>">
+				<div class="form-group">
+	                <label for="news_title">新闻标题</label>
+	                <input type="text" name="title" class="form-control" id='news_title' value='<?php echo $news['title'];?>'>
+	            </div>
+
+	            <div class="form-group">
+	                <label for="news_content">新闻内容</label>
+	                <textarea class="form-control" name="content" rows="12"><?php echo $news['content'];?></textarea>
+	            </div>
+
+	            <button class="btn btn-danger btn-block">修改</button>
+			</form>
+	    </div>
+	  
+			
+		<!-- 底部开始 -->
+	    <footer class="copyright" style='border-top: none;'>Copyright 2019 All rights reserved.</footer>
+		<!-- 底部结束 -->
+	</div>
+</body>
+</html>

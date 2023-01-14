@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>新闻列表页</title>
+	<link rel="stylesheet" href="css/index.css">
+	<script type="text/javascript" src='js/jquery-1.11.2.js'></script>
+	<script type="text/javascript" src='js/paging.js'></script>
+</head>
+<body>
+	<!-- 导航开始 -->
+	<nav class="navbar">
+		<div class="container navbar-content">
+			<a href="index.php">首页</a>
+			<a href="add.php">添加新闻</a>
+		</div>
+	</nav>
+	<!-- 导航结束 -->
+	
+	<!-- 图片 -->
+	<img src="images/bg.jpg" class="index-bg">
+
+	<!-- 具体内容 -->
+	<div class="container">
+		<h1>新闻系统</h1>
+		<!-- 新闻列表开始 -->
+	    <div class="news-list">
+	        <!-- 新闻列表左边开始 -->
+	        <div class="news-list-left">
+	        	<!-- 列表项开始 -->
+	        	<?php foreach($news as $n):?>
+	            <div class="news-list-item">
+	            	<!-- 作者以及发布时间 -->
+	                <div class="author-time"> <span><?php echo $n['name'];?></span> 发表于 <span><?php echo date('Y-m-d h:i:s',$n['publish']);?></span> </div>
+					<!-- 新闻详情 -->
+	                <div class="news-des">
+	                	<!-- 新闻标题 -->
+	                    <h3 class="news-title" style='float: left;'>
+	                    	<i></i><a href="detail.php?id=<?php echo $n['id'];?>"><?php echo $n['id'];?><?php echo $n['title'];?></a>
+	                    </h3>
+
+	                    <!-- 编辑,删除 -->
+	                    <div class="operate">
+	                    	<a href="edit.php?id=<?php echo $n['id'];?>">编辑</a>&nbsp;&nbsp;<a href="delete.php?id=<?php echo $n['id'];?>" onclick="return confirm('你确认要删除新闻:<?php echo $n['title'];?> 吗?')">删除</a>
+	                    </div>
+
+	                    <div style='clear:both'></div>
+
+	                    <!-- 新闻内容 -->
+	                    <div class="news-content-des ellipsis"><?php echo $n['content'];?></div>
+	                </div>
+	            </div>
+	        	<?php endforeach;?>
+	        	<!-- 列表项结束 -->
+	        	
+	        </div>
+	        <!-- 新闻列表左边结束 -->
+			
+	        <!-- 新闻列表右边-关于我们开始 -->
+	        <div class="news-list-right">
+	            <div class="about">
+	                 <h4>关于我们</h4> 
+	                <div class="about-des">
+	                    <p>关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们关于我们</p>
+	                </div>
+	            </div>
+	        </div>
+	        <!-- 新闻列表右边-关于我们结束 -->
+			
+			<div style='clear:both;'></div>
+			
+
+			<!-- 分页 -->
+			<div class="page">
+				<?php echo $pageinfo;?>
+			</div>
+
+			<!-- 底部开始 -->
+	        <footer class="copyright">Copyright 2019 Mr.Xu All rights reserved.</footer>
+			<!-- 底部结束 -->
+	    </div>
+		<!-- 新闻列表结束 -->
+	</div>
+</body>
+</html>
