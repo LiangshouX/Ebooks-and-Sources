@@ -1,0 +1,89 @@
+
+>>[2023-01-26 10:18:17] CLICK <Check_Act>......
+HEU KMS Activator Rabbit Edition Activate Windows=1 Activate Office=1 Digital/KMS38=1 OEM Activate=1 Office R2V=1 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 25281 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-01-26 10:18:26] CLICK <KMS_ActWin>......
+HEU KMS Activator Rabbit Edition Activate Windows=1 Activate Office=1 Digital/KMS38=1 OEM Activate=1 Office R2V=1 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 25281 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-01-26 10:18:27] sppsvc [Status:Running]
+>>[2023-01-26 10:18:27] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 42446
+>>[2023-01-26 10:18:27] _CheckWindowsLicensestatus = 0
+>>[2023-01-26 10:18:27] _CheckWindowsInfo  CheckVL|CheckESU_KMS|CheckESU_EDT[100]
+>>[2023-01-26 10:18:27] _CheckWindowsInfo  WindowsIDList = 2de67392-b7a7-462a-b1ca-108dd189f588
+3f1afc82-f8ac-4f6c-8005-1d233e606eee
+43f2ab05-7c87-4d56-b27c-44d0f9a3dabd
+73111121-5638-40f6-bc11-f1d7b0d64300
+82bbc092-bc50-4e16-8e18-b74fc486aec3
+af43f7f0-3b1e-4266-a123-1fdb53f4323b
+ca7df2e3-5ea0-47b8-9ac1-b1be4d8edd69
+e0c42288-980c-4788-a014-c080d2e1926e
+e4db50ea-bda1-4566-b047-0ca50abc6f07
+ec868e65-fadf-4759-b23e-93fe37f2cc29
+ff808201-fec6-4fd4-ae16-abbddade5706
+
+>>[2023-01-26 10:18:27] _CheckWindowsInfo  WindowsVLExist = 0 Build 25281
+>>[2023-01-26 10:18:27] _CheckWindowsInfo Windows Initial Edition = Professional
+>>[2023-01-26 10:18:27] _CheckWindowsInfo WindowsEditionWMI = Professional
+>>[2023-01-26 10:18:27] _CheckWindowsInfo WindowsEdition = Professional
+>>[2023-01-26 10:18:27] _CheckWindowsInfo WindowsGVLK = W269N-WFGWX-YVC9B-4J6C9-T83GX
+>>[2023-01-26 10:18:28] sppsvc [Status:Stopped]
+>>[2023-01-26 10:18:28] osppsvc [Not Found]
+>>[2023-01-26 10:18:28] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-01-26 10:18:29] Remove Microsoft Defender Exclusion ErrorCode:-2147217407
+;-2147217407
+
+>>[2023-01-26 10:18:29] Del NoGenTicket = 0
+>>[2023-01-26 10:18:29] SECOPatcher.dll [Not Found]
+>>[2023-01-26 10:18:29] _DelSECOPatcher Remove vlmcsd = Service vlmcsd does not exist.
+
+>>[2023-01-26 10:18:29] _DelSECOPatcher Del kms-server.exe = 0
+>>[2023-01-26 10:18:29] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-01-26 10:18:29] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2023-01-26 10:18:29] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2023-01-26 10:18:29] SppExtComObjHook.dll [Not Found]
+>>[2023-01-26 10:18:30] Remove Microsoft Defender Exclusion ErrorCode:-2147217407
+
+>>[2023-01-26 10:18:30] _StartKMSServer KMSMode = 1
+>>[2023-01-26 10:18:30] _CheckPort [1688:OK]
+>>[2023-01-26 10:18:31] Add Microsoft Defender Exclusion ErrorCode:-2147217407
+;-2147217407
+
+>>[2023-01-26 10:18:31] Add NoGenTicket = 1
+>>[2023-01-26 10:18:31] Copy SECOPatcher = 1    C:\WINDOWS\System32
+>>[2023-01-26 10:18:31] 发现 SID: C:\WINDOWS\System32\SECOPatcher.dll。
+已成功处理 1 个文件; 处理 0 个文件时失败
+
+已处理的文件: C:\WINDOWS\System32\SECOPatcher.dll
+已成功处理 1 个文件; 处理 0 个文件时失败
+
+>>[2023-01-26 10:18:31] Add Debugger = 1
+>>[2023-01-26 10:18:31] Copy kms-server.exe = 1    C:\WINDOWS\System32
+>>[2023-01-26 10:18:33] vlmcsd [Succeed to start]
+>>[2023-01-26 10:18:33] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-01-26 10:18:33] _TcpClientConnect->127.0.0.2:1688[Succeed]
+>>[2023-01-26 10:18:34] sppsvc [Status:Running]
+>>[2023-01-26 10:18:35] sppsvc [Status:Running]
+>>[2023-01-26 10:18:35] WinMgmt [Status:Running]
+>>[2023-01-26 10:18:35] Windows(R), Professional edition
+>>[2023-01-26 10:18:35] Windows VL = 1
+>>[2023-01-26 10:18:35] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\2de67392-b7a7-462a-b1ca-108dd189f588 Del = 0
+>>[2023-01-26 10:18:35] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\2de67392-b7a7-462a-b1ca-108dd189f588 Del = 0
+>>[2023-01-26 10:18:35] KeyManagementServiceName Add = 1 KMSHost = 10.0.0.1
+>>[2023-01-26 10:18:35] KeyManagementServicePort Add = 1 KMSPort = 1688
+>>[2023-01-26 10:18:35] VLActivationType Add = 1
+>>[2023-01-26 10:18:37] Activating Windows ErrorCode = 0x00000000
+>>[2023-01-26 10:18:38] RefreshLicenseStatus Windows ErrorCode = 0x00000000
+>>[2023-01-26 10:18:38] sppsvc [Status:Stopped]
+>>[2023-01-26 10:18:39] osppsvc [Not Found]
+>>[2023-01-26 10:18:39] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 1
+>>[2023-01-26 10:18:39] Remove Microsoft Defender Exclusion ErrorCode:-2147217407
+;-2147217407
+
+>>[2023-01-26 10:18:39] Del NoGenTicket = 1
+>>[2023-01-26 10:18:40] 已处理的文件: C:\WINDOWS\System32\SECOPatcher.dll
+已成功处理 1 个文件; 处理 0 个文件时失败
+
+>>[2023-01-26 10:18:40] _DelSECOPatcher Del SECOPatcher.dll = 1
+>>[2023-01-26 10:18:40] _DelSECOPatcher Remove vlmcsd = Service vlmcsd removed successfully
+
+>>[2023-01-26 10:18:40] _DelSECOPatcher Del kms-server.exe = 1
