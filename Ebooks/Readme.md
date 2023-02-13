@@ -2,8 +2,8 @@
 
 ## 编程类
 
-1. 《C primer plus》(第六版)-史蒂芬·普拉达(Stephen Prata)著作-中文   [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/编程类/C_Primer_Plus_第6版_中文版_美-史蒂芬·普拉达-Stephen Prata[著], 姜佑[译].pdf)。
-2.  《编程之美——微软面试技术心得》 [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/编程类/编程之美 _编程之美小组.pdf)。
+1. 《C primer plus》(第六版)-史蒂芬·普拉达(Stephen Prata)著作-中文   [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/编程类/C_PrimerPlus_第6版_中文版_美-史蒂芬·普拉达-Stephen Prata[著], 姜佑[译].pdf)。
+2.  《编程之美——微软面试技术心得》 [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/编程类/编程之美_编程之美小组.pdf)。
 3.  《Java核心技术卷 I》(第11版)-  [百度网盘链接](https://pan.baidu.com/s/1UFYU_LmvSb_G1Ik5j-X9EA?pwd=1111 )。
 4. 《Java核心技术卷 I》(第10版)-  [百度网盘链接](https://pan.baidu.com/s/1X5WCtlJMB1kVX_LvS1nEAg?pwd=1111 )。
 
