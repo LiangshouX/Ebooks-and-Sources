@@ -40,7 +40,7 @@
 3. 《深度学习（花书）》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/tree/main/Ebooks/算法%26AI类)。
 4. 《机器学习（西瓜书）》 [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/西瓜书.pdf)。
 5.  《剑指offer（专项突破版）》   [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/剑指Offer（专项突破版）：数据结构与算法名企面试题精讲-_何海涛_-_z-lib.org_.pdf)。
-6. 《剑指offer》
+6. 《剑指offer》[直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/剑指Offer：名企面试官精讲典型编程题 (何海涛) (z-lib.org).pdf)。
 7. 《LeetCode-101》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/LeetCode 101 - A LeetCode Grinding Guide (C%2B%2B Version).pdf)。
 8.  《LeetCode题解》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/LeetCode刷题题解答案.pdf)。
 9. 《啊哈！算法》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/啊哈！算法.pdf)。
