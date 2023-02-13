@@ -16,8 +16,6 @@
 
 
 
-
-
 ## 数学&理论类
 
 1. 《计算理论导引》 (第二版)-唐常杰.译  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/数学%26理论类/[计算理论导引（第2版）唐常杰.译.扫描版.pdf)。
