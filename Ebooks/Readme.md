@@ -25,7 +25,7 @@
 3. 《计算机算法设计与分析》_ 第五版 _ 王晓东  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/数学%26理论类/计算机算法设计与分析_第5版_王晓东.pdf)。
 3. 《计算机算法设计与分析习题分析》_ 第五版 _ 王晓东  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/数学%26理论类/计算机算法设计与分析习题解答_第5版_王晓东.pdf)。
 6. 《矩阵分析》（原书第二版）  [百度网盘链接](https://pan.baidu.com/s/1Pfl273soFwIyR_251fW8fw?pwd=1111 )。
-7. 《数据库系统概论》（第5版-王珊萨师煊）。
+7. 《数据库系统概论》（第5版-王珊萨师煊）[直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/数学%26理论类/数据库系统概论-第5版-王珊萨师煊.pdf)。
 
 
 
