@@ -2,7 +2,7 @@
 
 ## 编程类
 
-1. 《C primer plus》(第六版)-史蒂芬·普拉达(Stephen Prata)著作-中文   [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/编程类/C_PrimerPlus_第6版_中文版_美-史蒂芬·普拉达-StephenPrata[著]-姜佑[译].pdf)。
+1. 《C primer plus》(第六版)-史蒂芬·普拉达(Stephen Prata)著作-中文   [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/编程类/C_Primer_Plus_第6版_中文版_美-史蒂芬·普拉达-StephenPrata[著]-姜佑[译].pdf)。
 2.  《编程之美——微软面试技术心得》 [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/编程类/编程之美_编程之美小组.pdf)。
 3.  《Java核心技术卷 I》(第11版)-  [百度网盘链接](https://pan.baidu.com/s/1UFYU_LmvSb_G1Ik5j-X9EA?pwd=1111 )。
 4. 《Java核心技术卷 I》(第10版)-  [百度网盘链接](https://pan.baidu.com/s/1X5WCtlJMB1kVX_LvS1nEAg?pwd=1111 )。
@@ -23,6 +23,8 @@
 3. 《随机过程》(原书第二版)-Sheldon M.Ross著-龚光鲁译 [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/数学%26理论类/随机过程扫描书.pdf)。
 3. 《计算机算法设计与分析》_ 第五版 _ 王晓东  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/数学%26理论类/计算机算法设计与分析_第5版_王晓东.pdf)。
 3. 《计算机算法设计与分析习题分析》_ 第五版 _ 王晓东  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/数学%26理论类/计算机算法设计与分析习题解答_第5版_王晓东.pdf)。
+6. 《矩阵分析》（原书第二版）  [百度网盘链接](https://pan.baidu.com/s/1Pfl273soFwIyR_251fW8fw?pwd=1111 )。
+7. 《数据库系统概论》（第5版-王珊萨师煊）。
 
 
 
@@ -34,6 +36,7 @@
 2. 《动手学深度学习》（PyTorch第二版）  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/tree/main/Ebooks/算法%26AI类)。
 3. 《深度学习（花书）》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/tree/main/Ebooks/算法%26AI类)。
 4. 《机器学习（西瓜书）》 [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/西瓜书.pdf)。
+5. 《数字图像处理 第四版》  [百度网盘链接](https://pan.baidu.com/s/1QldrRKIF1XjX8FRTpa7Vsg?pwd=1111 )。
 5.  《剑指offer（专项突破版）》   [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/剑指Offer_专项突破版：数据结构与算法名企面试题精讲-_何海涛.pdf)。
 6. 《剑指offer》[直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/剑指Offer-名企面试官精讲典型编程题_何海涛.pdf)。
 7. 《LeetCode-101》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/LeetCode101_Cpp.pdf)。
