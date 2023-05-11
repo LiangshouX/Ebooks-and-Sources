@@ -35,7 +35,7 @@
 
 1. 《计算机视觉：算法与应用》（第二版）Szeliski著.  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/tree/main/Ebooks/算法%26AI类)。
 2. 《动手学深度学习》（PyTorch第二版）  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/tree/main/Ebooks/算法%26AI类)。
-3. 《深度学习（花书）》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/tree/main/Ebooks/算法%26AI类)。
+3. 《深度学习（花书）》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/tree/main/Ebooks/算法%26AI类/深度学习_花书-zh.pdf)。
 4. 《机器学习（西瓜书）》 [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/西瓜书.pdf)。
 5. 《数字图像处理 第四版》  [百度网盘链接](https://pan.baidu.com/s/1QldrRKIF1XjX8FRTpa7Vsg?pwd=1111 )。
 5.  《剑指offer（专项突破版）》   [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/剑指Offer_专项突破版：数据结构与算法名企面试题精讲-_何海涛.pdf)。
