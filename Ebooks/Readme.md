@@ -37,10 +37,11 @@
 2. 《动手学深度学习》（PyTorch第二版）  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/tree/main/Ebooks/算法%26AI类) 更多内容请访问[官方链接](https://github.com/d2l-ai/d2l-zh)
 3. 《深度学习（花书）》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/tree/main/Ebooks/算法%26AI类/深度学习_花书-zh.pdf) 更多内容请访问[官方链接](https://github.com/exacity/deeplearningbook-chinese)
 4. 《机器学习（西瓜书）》 [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/西瓜书.pdf) 推荐一份[学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes) Jack Cui的仓库，有一些[实践上手的案例](https://github.com/Jack-Cherish/Machine-Learning)
-5. 《数字图像处理 第四版》  [百度网盘链接](https://pan.baidu.com/s/1QldrRKIF1XjX8FRTpa7Vsg?pwd=1111 )。
-5.  《剑指offer（专项突破版）》   [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/剑指Offer_专项突破版：数据结构与算法名企面试题精讲-_何海涛.pdf)。
-6. 《剑指offer》[直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/剑指Offer-名企面试官精讲典型编程题_何海涛.pdf)。
-7. 《LeetCode-101》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/LeetCode101_Cpp.pdf)。
-8.  《LeetCode题解》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/LeetCode刷题题解答案.pdf)。
-9. 《啊哈！算法》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/啊哈！算法.pdf)。
+5. 《统计学习方法》（第二版）（李航） [百度网盘；链接](https://pan.baidu.com/s/1E6bSfkEPA-ODZctDYFNyyg?pwd=1111)
+6. 《数字图像处理 第四版》  [百度网盘链接](https://pan.baidu.com/s/1QldrRKIF1XjX8FRTpa7Vsg?pwd=1111 )。
+7.  《剑指offer（专项突破版）》   [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/剑指Offer_专项突破版：数据结构与算法名企面试题精讲-_何海涛.pdf)。
+8. 《剑指offer》[直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/剑指Offer-名企面试官精讲典型编程题_何海涛.pdf)。
+9. 《LeetCode-101》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/LeetCode101_Cpp.pdf)。
+10.  《LeetCode题解》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/LeetCode刷题题解答案.pdf)。
+11. 《啊哈！算法》  [直达链接](https://github.com/LiangshouX/Ebooks-and-Sources/blob/main/Ebooks/算法%26AI类/啊哈！算法.pdf)。
 
